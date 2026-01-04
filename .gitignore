@@ -1,0 +1,3 @@
+gitignore
+# Игнорировать папку конфигурации IDE PyCharm
+.idea/
